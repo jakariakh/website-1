@@ -8,3 +8,12 @@ h1{
 .name-highlight{
     color: rgb(255, 153, 20);
 }
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
